@@ -93,4 +93,11 @@ footer a{
 iframe{
   box-shadow: 4px 4px 19px gray;
   border-radius: 9px;
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
 }
