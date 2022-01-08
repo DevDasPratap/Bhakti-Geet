@@ -97,4 +97,5 @@ iframe{
     clear: both;
     position: relative; */
     margin-left: 25px;
+    display: inline-block;
 }
