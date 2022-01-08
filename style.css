@@ -18,6 +18,8 @@ h1{
   font-size: 50px;
   color: white;
   text-align: center;
+  font-family: revert;
+  padding: 10px;
 }
 nav{
   background: #fc4903;
